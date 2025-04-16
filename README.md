@@ -36,9 +36,9 @@ Before starting the lab, ensure the following:
 
 
 ## Screenshots
+<img width="400" alt="lab101" src="https://github.com/user-attachments/assets/f7d4d5c6-87b5-4201-9856-fe8786d174f0" />
 
 ![lab103](https://github.com/user-attachments/assets/5173cf70-8e3c-44c3-9e3f-4e8d2078be28)
 ![lab104](https://github.com/user-attachments/assets/05609c37-64b4-4601-9add-91ad1cc0afd4)
-
 ![lab10addsource](https://github.com/user-attachments/assets/a8adb789-2da6-40b1-ad9a-ffc3bfc0bb4a)
 
